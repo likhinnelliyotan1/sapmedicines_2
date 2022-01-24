@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661469616348",
+    "project_id": "sapmedicines",
+    "storage_bucket": "sapmedicines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661469616348:android:3abc3fbf05de2778073c19",
+        "android_client_info": {
+          "package_name": "com.sapmedicines.sapmedicines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661469616348-88p894vbaqaelngoccjqruoj6p09khba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sapmedicines.sapmedicines",
+            "certificate_hash": "4c28f100c9bcea07c035d7b62a18ec4e8b838882"
+          }
+        },
+        {
+          "client_id": "661469616348-9bg6ml44368ndd9mq01jdn7oot6kc5g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xc4iA0QeTirK5FjEDlIBHhvcPcaAbqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661469616348-9bg6ml44368ndd9mq01jdn7oot6kc5g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
